@@ -2,4 +2,5 @@
 void testfunction()
 {
 	printf("test");
+        int a;
 }
